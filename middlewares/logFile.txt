@@ -1,0 +1,14 @@
+New user Authenticated!
+Username: senthil
+Password: sk710
+URL: /api/checkLoggerData/senthil/sk710
+Date: 23/7/2024, 2:36:41 pm
+Method Type: POST
+
+New user Authenticated!
+Username: senthil
+Password: sk711
+URL: /api/checkLoggerData/senthil/sk711
+Date: 23/7/2024, 2:37:34 pm
+Method Type: POST
+
